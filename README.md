@@ -30,6 +30,8 @@ and success criteria  of our project.
 
 SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 
+![image](https://github.com/devrajmuni143/Sales-Insights-Dashboard/assets/100869651/4c18cc59-cb5d-42b3-a9f3-0bb8fc8bd1e1)
+
 ### Data Analysis Using SQL
 
 Show all customer records
@@ -93,3 +95,6 @@ Data Analysis Using Power BI
 ## Final result 
 
 #### Initial Dashboard
+![Initial Dashboard](https://github.com/devrajmuni143/Sales-Insights-Dashboard/assets/100869651/67ffaf80-b18c-486c-9830-569b4b4702ca)
+#### Final Dashboard
+![Updated Dashboard](https://github.com/devrajmuni143/Sales-Insights-Dashboard/assets/100869651/66b5df08-474f-4984-a4dd-7bad3df42c8d)
